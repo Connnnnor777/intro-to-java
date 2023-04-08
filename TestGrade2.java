@@ -1,9 +1,9 @@
-/**
- * The TestGrade class determines a letter grade
+/**sss
+ * The TestGrade2 class determines a letter grade
  * based on a numeric test score.
  */
 
-public class TestGrade
+public class TestGrade2
 {
    private int score;
 
@@ -12,7 +12,7 @@ public class TestGrade
     * for the score field.
     */
 
-   public TestGrade(int s)
+   public TestGrade2(int s)
    {
       score = s;
    }
@@ -38,7 +38,7 @@ public class TestGrade
 
    /**
     * The getLetterGrade returns the letter
-	 * grade for the test score.
+     * grade for the test score.
     */
 
    public char getLetterGrade()
@@ -51,7 +51,7 @@ public class TestGrade
          grade = 'D';
       else if (score < 80)
          grade = 'C';
-		else if (score < 90)
+        else if (score < 90)
          grade = 'B';
       else
          grade = 'A';
@@ -59,3 +59,4 @@ public class TestGrade
       return grade;
    }
 }
+s
