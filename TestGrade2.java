@@ -1,9 +1,9 @@
 /**
- * The TestGrade2 class determines a letter grade
+ * The TestGrade class determines a letter grade
  * based on a numeric test score.
  */
 
-public class TestGrade2
+public class TestGrade
 {
    private int score;
 
@@ -12,7 +12,7 @@ public class TestGrade2
     * for the score field.
     */
 
-   public TestGrade2(int s)
+   public TestGrade(int s)
    {
       score = s;
    }
