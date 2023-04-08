@@ -2,7 +2,7 @@
 /**
  * Write a description of class HelloWorld here.
  *
- * @author (Connor Bullock)
+ * @author (Connor )
  * @version (2/2/2023)
  */
 public class HelloWorld
