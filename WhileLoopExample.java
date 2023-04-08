@@ -1,4 +1,4 @@
-//        Connor Bullock  3/28/23
+//        Connor   3/28/23
 //  while loop 1-10 example
 
 
