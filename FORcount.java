@@ -2,7 +2,7 @@
 /**
  * This program generates a numberlist using for loop
  *
- * @author (Connor Bullock)
+ * @author (Connor )
  * @version (3/28/23)
  */
 public class FORcount
