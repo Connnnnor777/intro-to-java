@@ -1,4 +1,4 @@
-/**sss
+/**
  * The TestGrade2 class determines a letter grade
  * based on a numeric test score.
  */
@@ -59,4 +59,3 @@ public class TestGrade2
       return grade;
    }
 }
-s
