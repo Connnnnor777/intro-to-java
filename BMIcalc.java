@@ -1,5 +1,5 @@
 /**
- *        Connor Bullock
+ *        Connor 
  *        4/2/23
  *        
  *        BMI Calculator
