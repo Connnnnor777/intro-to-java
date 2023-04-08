@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- *      Connor Bullock  3/27/23
+ *      Connor   3/27/23
  *      
  *      This program converts whole numbers between 1 and 10 to Roman numerals
  *  if a number outside of that range is entered the user recieves an error message.
